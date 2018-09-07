@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 07fac68af217e493da2fc19c44cd436a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _ShadowMapTexture: {fileID: 8400000, guid: 4b0ce64f2a3c84670853c96c69f70457, type: 2}
+  - _ODSWorldTexture: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

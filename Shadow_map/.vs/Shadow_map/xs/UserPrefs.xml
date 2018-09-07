@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{10996FB1-E03E-2FF0-31D3-F36A289AC0C4}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Invisible Shadow Caster/ShadowDrawer.shader">
+    <Files>
+      <File FileName="Assets/Invisible Shadow Caster/ShadowDrawer.shader" Line="91" Column="25" />
+      <File FileName="Assets/Invisible Shadow Caster/SceneShadows.shader" Line="5" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
